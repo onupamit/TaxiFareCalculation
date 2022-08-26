@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaxiFareCalculation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="spin_tt">Select One</string>
+</resources>

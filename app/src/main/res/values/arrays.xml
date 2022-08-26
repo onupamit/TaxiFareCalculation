@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <array name="city">
+     <item><b> Select A City</b></item>   
+     <item><b>     New York</b></item>
+     <item><b>     Philadelphia</b></item>
+     <item><b>     Atlanta</b></item> 
+     <item><b>     Las Vegas</b></item>
+     <item><b> Baltimore, MD.</b></item>
+     <item><b>Boston</b></item>
+     <item><b> Chicago </b></item>
+     <item><b>Cleveland ,OH. </b></item>
+     <item><b>Dallas </b></item>
+     <item><b>Denver, Colorado  </b></item>
+     <item><b>Detroit, MI.  </b></item>
+     <item><b>Honolulu, HI</b></item>
+     <item><b>Houston , TX</b></item>             
+     <item><b>Los Angeles </b></item>
+     <item><b>Miami, FL</b></item>
+     <item><b>Minneapolis</b></item>     
+     <item><b>New Orleans ,LA.</b></item>             
+    <item><b>Orlando, FL</b></item>              
+    <item><b>Phoenix, AZ</b></item>
+    <item><b>San Diego, CA</b></item>
+    <item><b>San Francisco</b></item>
+    <item><b> Seattle </b></item>
+    <item><b> St. Louis, MO</b></item>
+    <item><b>Washington, D.C.</b></item>
+   <item><b>-European City- </b></item>
+   <item><b>London, U.K.</b></item>
+   <item><b>Paris, France</b></item>
+   <item><b>-Asian City- </b></item>
+   <item><b>Dubai ,UAE</b></item>
+   </array>
+   
+   
+    
+    <array name="address">
+     <item> Select a Landmark From Here (OR) </item>
+    <item>Select a City First</item>
+  </array>
+  
+  <array name="address_landmark">
+     <item> Select a Landmark From Here (OR) </item>
+    <item>Landmark will be added very soon</item>  
+  </array>
+    
+    
+  <array name="address_ny">
+     <item>"Select" </item>
+    <item>JFK International Airport, Queens, NY</item>
+    <item>Laguardia Airport, Queens, NY</item>
+    <item> Newark Airport, NJ </item>
+    <item>Grand Central Station,109 East 42nd Street, NY </item>
+    <item>Penn Station,438 8th Ave New York, NY  </item>
+    <item>Empire State Building,350 5th Ave, New York, NY </item>
+    <item>Statue of Liberty From Manhattan,26 Battery Pl, New York, NY </item>
+    <item>Rockefeller Center,30 Rockefeller Plaza, New York, NY </item>
+    <item>World Trade Center, New York, NY</item>   
+    <item>Times Square,NY</item>
+    <item>Metropolitan Museum of Art,1000 5th ave, NY, NY </item>
+   
+  </array>
+  
+  
+  <array name="address_philadelphia">
+            <item> Select a Landmark From Here (OR) </item>
+            <item>"PHL",PHI Airport</item> 
+			<item>Crowne Plaza Philadelphia West,4010 City Ave, Philadelphia, PA </item>
+			<item> DoubleTree by Hilton Hotel Philadelphia Center City, 237 S Broad St, Philadelphia, PA</item>
+			<item> Embassy Suites Hotel, 1776 Benjamin Franklin Parkway, Philadelphia, PA </item> 
+			<item>Four Seasons Hotel Philadelphia, 1 Logan Square Philadelphia, PA 19103</item>
+			<item> Hyatt Regency Penns Landing, 201 S. Columbus Blvd, Philadelphia, PA</item>
+			<item>Marriott Downtown, 1201 Market St, Philadelphia, PA </item>  
+			<item> Residence Inn by Marriott,4630 Island Ave, Philadelphia, PA</item> 
+			<item> Sheraton Society Hill Hotel, 1 Dock St, Philadelphia, PA</item>  
+			<item> Sheraton University City Hotel, 3549 Chestnut St, Philadelphia, PA</item> 
+			<item> Museum of Art, 2600 Benjamin Franklin Pkwy, Philadelphia, PA</item>  
+			<item> Drexel University, 3141 Chestnut St, Philadelphia, PA</item> 
+			<item> University of Pennsylvania, 3400 Chestnut St, Philadelphia, PA</item>  
+			 
+   </array>
+   
+  
+  
+  <array name="address_Atlanta">
+            <item> Select a Landmark From Here (OR) </item>
+ 			<item>"ATL", ATL Airport</item>
+			<item> Buckhead (Lenox Square), 3393 Peachtree Rd NE, Atlanta, GA</item>
+			<item> Centennial Olympic Park,265 Park Avenue West NW, Atlanta, GA</item>
+			<item>CNN Center(Down Town), 190 Marietta St NW, Atlanta, Fulton, GA 30313</item>
+			<item> W Atlanta-Downtown , 45 Ivan Allen Junior Boulevard , Atlanta, GA 30308  </item>
+			<item> Coca-Cola Enterprises, 1 One Coca Cola plz NW, Atlanta, GA</item>
+			<item>Georgia Dome, 1 Georgia Dome Dr NW, Atlanta, GA</item>
+			<item> Peachtree Center,231 Peachtree St NE, Atlanta, GA </item>
+			<item> Lenox Square Mall,3393 Peachtree Rd Ne, Atlanta, GA</item>
+
+	 </array>		
+  
+ 
+   <array name="address_LasVegas">
+            <item> Select a Landmark From Here (OR) </item>
+ 			<item> Las Vegas McCarran Airport (LAS), las vegas airport,NV</item>					
+			<item>  Sam Boyd Stadium, 7000 E Russell Rd, Las Vegas, NV</item>
+			<item>Fiesta Rancho,2400 N Rancho Dr, Las Vegas, NV</item>	  
+
+	 </array>
+	 
+   <array name="BaltimoreMD">
+        <item> Select a Landmark From Here (OR) </item>
+        <item>BWI,Baltimore-Washington Airport (BWI)</item>	  
+	 	<item>New Carrolton  Metro Station, Lanham, MD 20784</item>	  
+		<item>Penn Station,1500 North Charles Street, Baltimore, MD</item>	   
+		<item>Admiral Fell Inn, 888 S Broadway, Baltimore, MD</item>	  
+		<item>Biltmore Suites, 205 West Madison Street, Baltimore, MD</item>	  
+		<item>Brookshire Suites, 120 E Lombard St, Baltimore, MD ‎</item>	  
+		<item>Harbor Court Hotel, 550 Light St, Baltimore, MD</item>	  
+		<item>Henderson\'s Wharf Inn, 1000 Fell St, Baltimore, MD</item>	  
+		<item>Holiday Inn Express (Stadium), 1701 RUSSELL ST, Baltimore, MD</item>	  
+		<item>HI-Baltimore,17 W Mulberry St, Baltimore, MD ‎</item>	  
+		<item>Baltimore Zoo, 2570 Druid Hill Ave, Baltimore, MD</item>	  
+		<item>Camden Yards, 333 W Camden St %23 500, Baltimore, MD</item>	  
+		<item>Harborplace and The Gallery,201 E Pratt St, Baltimore, MD</item>	  
+		<item>National Acquarium, 501 E Pratt St, Baltimore, MD</item>	 
+   </array>
+  
+ 
+    <array name="Boston">
+        	<item> Select a Landmark From Here (OR) </item>
+            <item>BOS, Logan Airport</item>
+			<item>MHT,Manchester Airport (NH)</item>
+			<item>PVD, T. F. Green Airport (RI)</item>
+			<item>Faneuil Hall, 1 Faneuil Hall sq, Boston, MA</item>
+			<item>Fenway Park, 4 Yawkey Way Boston, MA 02215</item>
+			<item>Prudential Center, 800 Boylston St, Boston, MA</item>
+			<item>North Station, 100 Causeway St, Boston, MA</item>
+			<item>South Station, 700 Atlantic Ave, Boston, MA</item>
+   
+    </array>
+    
+    
+    <array name="Chicago">
+        	<item> Select a Landmark From Here (OR) </item>
+            <item>ORD, O\'Hare Airport (ORD)</item>
+			<item>MDW, Midway Airport (MDW)</item>
+
+			<item> Greyhound Bus (Cumberland CTA), 5800 N Cumberland Ave, Chicago, IL 60631 </item>
+			<item>Union Station, 225 South Canal Street Chicago, IL 60606</item>
+			<item>Sears Tower, 233 S Wacker Dr, Chicago, IL 60606</item>
+			<item>Gold Coast, 1 E Wacker Dr, Chicago, IL</item>
+
+     </array>
+     
+    <array name="Cleveland">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item> Cleveland Airport (CLE) , 5300 Riverside Drive, Cleveland, OH, U.S.A. </item>
+
+			<item> Rta-Shaker Square Station, 13299 Shaker Sq, Cleveland, OH 44120, U.S.A. </item>
+
+			<item> Baymont Inn,1421 Golden Gate Blvd, Cleveland, OH, U.S.A. </item>
+
+			<item>Brownstone Inn, 3649 Prospect Ave E, Cleveland, OH, U.S.A.  </item>
+
+			<item> Cleveland Clinic Guest House, 9601 Euclid Ave, Cleveland, OH, U.S.A. </item>
+
+			<item>Crowne Plaza Cleveland City Centre, 777 St. Clair Ave., Cleveland, OH 44114, U.S.A.  </item>
+
+			<item> Doubletree Hotel Cleveland South, 6200 Quarry Lane, Independence, OH, U.S.A. </item>
+
+			<item>Embassy Suites Downtown, 1701 East 12th Street, Cleveland, OH, U.S.A.  </item>
+
+			<item>Glidden House Hotel, 1901 Ford Dr, Cleveland, OH, U.S.A.  </item>
+
+			<item>Hyatt Regency Cleveland at The Arcade, 420 Superior Avenue E, Cleveland, OH, U.S.A.  </item>
+
+			<item> Intercontinental Hotel and Conf Center, 9801 Carnegie Ave, Cleveland, OH, U.S.A. </item>
+
+			<item> Marriott-Downtown Key Center, Rockwell Avenue and W Mall Drive, Cleveland, OH, U.S.A. </item>
+
+			<item>Muse at The Ritz-Carlton, 1515 W 3rd St, Cleveland, OH, U.S.A.  </item>
+
+			<item>Plaza Hotel-Cleveland Airport, 7230 Engle Rd, Cleveland, OH, U.S.A.  </item>
+
+			<item>Renaissance Cleveland Hotel, 24 Public Sq, Cleveland, OH, U.S.A.  </item>
+
+			<item> Residence Inn Cleveland Beachwood, 3628 Park East Dr, Beachwood, OH, U.S.A. </item>
+
+			<item>Cleveland Museum of Art, 11150 East Blvd, Cleveland, OH, U.S.A.  </item>
+
+			<item> Cleveland Museum of Natural History, 10600 East Blvd, Cleveland, OH, U.S.A. </item>
+
+			<item>Cleveland Orchestra at Severance Hall, 11001 Euclid Ave, Cleveland, OH, U.S.A.  </item>
+
+			<item> Great Lakes Science Center, 601 Erieside Ave, Cleveland, OH, U.S.A. </item>
+    </array>
+
+    
+    <array name="Dallas">  
+        	<item> Select a Landmark From Here (OR) </item>
+     		<item>Dallas Fort-Worth Airport , DFW Airport, TX</item>
+			<item>Dallas-Love Field Airport , DAL</item>
+			<item>Dallas Central Business District ,334 S Hall St, Dallas, TX</item>
+			<item>Downtown Fort Worth , Downtown, Fort Worth, TX</item>
+			<item>Downtown Dallas , Downtown, Dallas, TX</item>
+			<item>American Airlines Center , 2500 Victory Ave, Dallas, TX</item>
+			<item>Cotton Bowl Stadium , 3750 Midway Plaza, Dallas, Texas 75210</item>
+			<item>Dallas City Hall , 1500 Marilla Dr, Dallas, TX</item>
+			<item>Dallas Convention Center , 650 S Griffin St, Dallas, TX</item>
+			<item>Dallas Market Center , 2100 N Stemmons Fwy, Dallas, TX</item>
+			<item>Dallas Museum of Art , 1717 N. Harwood St., Dallas, TX</item>
+			<item>Dallas Theater Center , 3636 Turtle Creek Blvd, Dallas, TX</item>
+			<item>Dallas World Aquarium , 1801 N Griffin St, Dallas, TX</item>
+			<item>Dallas Zoo , 650 S RL Thornton Freeway, Dallas, TX</item>
+			<item>Dallas Trade Mart , 2100 North Stemmons Freeway, Dallas, TX</item>
+			<item>JFK Memorial Plaza , 411 Elm St # 120, Dallas, TX</item>
+			<item>Reunion Arena , 777 Sports St, Dallas, TX</item>
+			<item>Southwestern Medical Center , 6263 Harry Hines Blvd # 4, Dallas, TX</item>
+			<item>Symphony Center , 2301 Flora St, Dallas, TX</item>
+			<item>Urbanmarket , 1500 Jackson Street, Dallas, TX</item>
+			<item>West End Marketplace , 1701 N Market St., Dallas, TX</item>
+			<item>World Trade Center , 2100 North Stemmons Freeway, Dallas, TX</item>
+			<item>Hilton Anatole , Hilton Anatole</item>
+			<item>Hyatt Regency (Reunion) , 300 Reunion Blvd W, Dallas, TX</item>
+			<item>Renaissance Dallas , 2222 N Stemmons Fwy, Dallas, TX</item>
+			<item>Westin City Center , 650 North Pearl Street, Dallas, TX</item>
+
+     </array>
+     
+    
+    <array name="Denver">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Denver International Airport (DIA,Denver),Denver International Airport, Denver, Colorado</item>
+			<item>Brown Palace Hotel and Spa,321 17th St, Denver, CO</item>
+			<item>The Inverness,200 Inverness Dr West, Englewood, CO</item>
+			<item>Denver Art Museum,100 W 14th Avenue Pkwy, Denver, CO 80204</item>
+			<item>Denver Museum of Nature and Science,2001 Colorado Blvd, Denver, CO</item>
+			<item>Denver Zoo, 2300 Steele St, Denver, CO</item>
+
+     </array>
+    
+    
+   <array name="Detroit">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Detroit City Airport (DET),DET</item>
+			<item>Detroit Metro Airport (DTW),DTW</item>
+			<item>Atheneum Suite Hotel, 1000 Brush St, Detroit, MI</item>
+			<item>Courtyard Marriott Downtown,333 E Jefferson Ave, Detroit, MI</item>
+			<item>Hilton Garden Inn,351 Gratiot Avenue, Detroit, MI</item>
+			<item>Holiday Inn Express Downtown, 1020 Washington Blvd, Detroit, MI 48226</item>
+			<item>Hyatt Regency Dearborn, 600 Town Center Drive, Dearborn, MI</item>
+			<item>Marriott Renaissance, Renaissance Drive, Detroit, Michigan 48243</item>
+			<item> Milner Hotel, 1538 Centre St, Detroit, MI 48226</item>
+			<item>MotorCity Casino Hotel, 2901 Grand River Avenue, Detroit, MI</item>
+			<item>Omni Detroit Hotel River Place, River Pl Dr, Detroit, MI 48207</item>
+			<item>Ritz-Carlton Dearborn, 300 Town Center Dr, Dearborn, MI</item>
+			<item>Sheraton Detroit Riverside Hotel, 2 Washington Boulevard, Detroit, MI</item>
+     </array>
+    
+   <array name="Honolulu">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Honolulu Airport (HNL) ,HNL,U.S.A</item>
+			<item>Hale Koa Hotel , 2055 Kalia Road, Honolulu, HI 96815-1998, U.S.A</item>
+			<item>Hawaii Prince Hotel , 100 Holomoana St, Honolulu, HI, U.S.A</item>
+			<item>Hotel Renew , 129 Paoakalani Avenue, Honolulu, HI 96815, U.S.A</item>
+			<item>Kahala Hotel and Resort , 5000 Kahala Avenue, Honolulu, HI, U.S.A</item>
+			<item> Moana Surfrider, A Westin Resort , 2365 Kalakaua Avenue, Honolulu, HI, U.S.A</item>
+			<item> Outrigger Waikiki , 2335 Kalakaua Avenue, Honolulu, HI, U.S.A</item>
+			<item> ResortQuest Waikiki Beach Tower , 2470 Kalakaua Ave, Honolulu, HI, U.S.A</item>
+			<item> Royal Hawaiian Hotel , 2259 Kalakaua Avenue, Honolulu, HI, U.S.A</item>
+			<item>W Honolulu , 2885 Kalakaua Avenue, Honolulu, HI, U.S.A</item>
+			<item>Waikiki Beach Marriott Resort and Spa , 2552 Kalakaua Avenue, Honolulu, HI, U.S.A</item>
+			<item>Diamond Head , Diamond Head, Honolulu, HI, U.S.A</item>
+			<item>Manoa Falls , Manoa Falls, Honolulu, HI, U.S.A</item>
+			<item>USS Arizona Memorial , 1 Arizona Memorial Rd, Honolulu, HI, U.S.A</item>
+     </array>
+   
+    
+   <array name="Houston">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Bush Intercontinental Airport (IAH) , IAH , U.S.A.</item> 
+
+			<item>Downtown, Houston, TX , U.S.A.</item>
+
+			<item>William P Hobby Airport (HOU) ,HOU , U.S.A.</item> 
+
+			<item>Galveston Cruise Terminal , 123 25th ST, Galveston, TX , U.S.A.</item> 
+
+			<item>Norwegian Cruise Lines ,1 NORTH L STREET, LA PORTE, TX , U.S.A.</item> 
+
+			<item>Crowne Plaza , 1700 Smith st, Houston, TX , U.S.A.</item>
+
+			<item>Hilton Americas ,  1600 Lamar, Houston, TX , U.S.A.</item>
+
+			<item>Hyatt Regency ,  1200 LOUISIANA, Houston, TX , U.S.A.</item>
+
+			<item>Marriott Courtyard ,  916 Dallas St, Houston, TX , U.S.A.</item>
+
+			<item>Reliant Park Plaza , 8686 KIRBY, Houston, TX , U.S.A.</item> 
+
+			<item>Museum of Fine Arts , 1001 Bissonnet St, Houston, TX , U.S.A.</item>
+     </array>
+     
+   
+   <array name="LosAngeles">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>LA Airport , LAX,U.S.A.</item>
+			<item>Union Station , 800 N Alameda St, Los Angeles, CA,U.S.A.</item>
+			<item> Hollywood Celebrity Hotel (Orchid) ,1775 Orchid Ave, Los Angeles, CA,U.S.A.</item>
+			<item>Hollywood Celebrity Hotel (Westwood) ,2265 Westwood Blvd %23 348, Los Angeles, CA,U.S.A.</item>
+			<item>Hostelling International (Santa Monica) , 1436 Second Street, Santa Monica, CA. 90401,U.S.A.</item>
+			<item>Hotel Bel-Air ,701 Stone Canyon Rd, Los Angeles, CA,U.S.A.</item>
+			<item>Kyoto Grand Hotel , 120 S. Los Angeles St, Los Angeles, CA,U.S.A.</item>
+			<item>Magic Castle Hotel , 7025 Franklin Ave, Los Angeles, CA,U.S.A.</item>
+			<item>Marriott Hotels and Resorts , 333 S Figueroa St, Los Angeles, CA,U.S.A.</item>
+			<item>Millennium Biltmore Hotel , 506 S Grand Ave, Los Angeles, CA,U.S.A.</item>
+			<item>Omni LOS Angeles Hotel ,251 S Olive St, Los Angeles, CA,U.S.A.</item>
+			<item>Regent Beverly Wilshire Hotel , 9500 Wilshire Blvd, Beverly Hills, CA 90212,U.S.A.</item>
+			<item>Renaissance Hollywood Hotel , 1755 N Highland Ave, Los Angeles, CA,U.S.A.</item>
+			<item>Renaissance-La Montura , 9620 Airport Blvd, Los Angeles, CA,U.S.A.</item>
+			<item>Villa Delle Stelle ,6087 Harold Way, Los Angeles, CA,U.S.A.</item>
+			<item>W Hotels-Los Angeles Westwood ,930 Hilgard Avenue, Los Angeles, CA,U.S.A.</item>
+			<item>Westin Bonaventure Hotel ,404 South Figueroa Street, Los Angeles, CA,U.S.A.</item>
+			<item>Wilshire Grand Hotel ,930 Wilshire Blvd, Los Angeles, CA,U.S.A.</item>
+			<item>Wyndham Checkers Hotel ,Wyndham Checkers, LA,U.S.A.</item>
+			<item>Hollywood Sign ,United Kingdom,U.S.A.</item>
+			<item>UCLA , Wyton Dr, Los Angeles, CA,U.S.A.</item>
+			<item>Rodeo Drive , 444 North Rodeo Drive, Los Angeles, CA,U.S.A.</item>
+			<item>Chocolat , 8155 Melrose Avenue, Los Angeles, CA 90046,U.S.A.</item>
+			<item>Circa 55 , 9876 Wilshire Blvd., Beverly Hills, CA 90210,U.S.A.</item>
+			<item>Drago Ristorante , 2628 Wilshire Blvd., Santa Monica, CA 90403,U.S.A.</item>
+			<item>Enoteca Drago , 410 N. Canon Dr., Beverly Hills, CA 90210,U.S.A.</item>
+			<item>Joe\'s Restaurant , 1023 Abbot Kinney Blvd, Los Angeles, CA 90291,U.S.A.</item>
+
+     </array>
+   
+   
+   <array name="Miami">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Ft. Lauderdale Airport (FLL) ,FLL, U.S.A.</item> 
+			<item>Miami Airport (MIA) ,MIA, U.S.A.</item> 
+			<item>Miami Convention Center ,400 Southeast 2nd Avenue # 3, Miami, FL 33131, U.S.A.</item> 
+			<item>Port of Miami , Port Blvd, Miami, FL, U.S.A.</item>
+			<item>Doral Golf Resort and Spa , 4400 NW 87th Avenue, Miami, FL 33178, U.S.A.</item>
+			<item>Four Seasons Hotel Miami , 1435 Brickell Ave, Miami, FL, U.S.A.</item>
+			<item>Hyatt Regency Miami ,400 Southeast 2nd Avenue, Miami, FL, U.S.A.</item> 
+			<item>JW Marriott Miami , 1109 Brickell Ave, Miami, FL, U.S.A.</item>
+			<item>Mandarin Oriental ,500 Brickell Key Drive, Miami, FL, U.S.A.</item> 
+			<item>Marriott\'s Villas at Doral ,metrowest detention center, Miami, FL 33178 , U.S.A.</item> 
+ 			<item>Sonesta Hotel Coconut Grove , 2889 McFarlane Road, Coconut Grove, FL, U.S.A.</item>
+			<item>Miami Metrozoo ,12400 SW 152nd St, Miami-Dade, FL, U.S.A.</item> 
+			<item>Miami Seaquarium ,Rickenbacker Causeway and Sewage Plant Rd, Key Biscayne, FL, U.S.A.</item> 
+			<item>Museum of Contemporary Art , 770 NE 125th St, Miami, FL 33161, U.S.A.</item>
+</array>
+   
+
+   <array name="Minneapolis">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>MSP International Airport, MSP, U.S.A. </item>
+			<item>University Of Minnesota,University Of Minnesota, Minneapolis, MN, U.S.A. </item>
+			<item>Target Center,600 1st Ave N, Minneapolis, MN 55403, U.S.A. </item>
+			<item>Minneapolis Convention Center, 1301 2nd Ave S, Minneapolis, MN, U.S.A. </item>
+			<item>Minneapolis Institute of Arts, 2400 3rd Ave S # A, Minneapolis, MN, U.S.A. </item>
+			<item>Minneapolis Sculpture Garden, 725 Vineland Pl, Minneapolis, MN, U.S.A. </item>
+			<item>Guthrie Theater, 818 South 2nd Street, Minneapolis, MN, U.S.A. </item>
+			<item>Weisman Art Museum, 333 E River Pkwy, Minneapolis, MN, U.S.A. </item>
+			<item>Foshay Tower, 821 Marquette Ave, Minneapolis, MN, U.S.A. </item>
+			<item>Midtown Global Market, 2929 Chicago Ave, Minneapolis, MN, U.S.A. </item>
+			<item>Mall of America, 2221 Killebrew Dr, Minneapolis, MN, U.S.A. </item>
+
+</array>
+ 
+   
+  <array name="NewOrleans">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Audubon Aquarium of the Americas , 1 Canal Street, New Orleans, LA 70118, U.S.A.</item>
+			<item>Audubon Zoo , 6500 Magazine Street, New Orleans, LA 70118, U.S.A.</item>
+			<item>Canal Street, Canal St, New Orleans, LA, U.S.A.</item> 
+			<item>Louis Armstron New Airport (MSY),  MSY, U.S.A.</item>
+			<item>Greyhound Lines, 1001 Loyola Avenue, New Orleans, LA 70113-1922, U.S.A.</item> 
+			<item>Union Passenger Terminal,New Orleans Union Passenger Terminal, New Orleans, U.S.A.</item> 
+</array> 
+   
+
+<array name="Orlando">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Downtown, Orlando, FL, U.S.A. </item>Downtown - Orlando,
+			<item>MCO, U.S.A. </item>Orlando Airport (MCO),
+			<item>Port Canaveral,Cape Canaveral, FL, U.S.A. </item>
+			<item>Airport - Sanford,1 Red Cleveland Blvd, Sanford FL, U.S.A. </item>
+			<item>Amtrak - Kissimmee,111 E. Dakin Ave., Kissimmee, FL, U.S.A. </item>
+			<item>Amtrak - Orlando,1400 Sligh Blvd, Orlando, FL, U.S.A. </item>
+			<item>Greyhound Orlando, 555 N. John Young Pkwy, Orlando, FL, U.S.A. </item>
+			<item>Grand Bohemian Hotel, 325 S. Orange Avenue, Orlando, FL, U.S.A. </item>
+			<item>Hard Rock Hotel at Univeral, 5601 Universal Blvd, Orlando, FL, U.S.A. </item>
+			<item>Rosen Plaza Hotel, 9700 International Dr, Orlando, FL, U.S.A. </item>
+</array>  
+  
+  
+<array name="Phoenix">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Phoenix Sky Harbor Airport (PHX), PHX, U.S.A. </item>
+			<item>Arizona Biltmore, 2400 E Missouri Ave, Phoenix, AZ, U.S.A. </item>
+			<item>Camelback Inn, 5402 East Lincoln Drive, Scottsdale, AZ, U.S.A. </item>
+			<item>Fairmont Scottsdale Princess, 7575 E Princess Dr, Scottsdale, AZ, U.S.A. </item>
+			<item>Hotel Valley Ho, 6850 E Main St, Scottsdale, AZ, U.S.A. </item>
+			<item>The Phoenician, 6000 E Camelback Rd, Phoenix, AZ, U.S.A. </item>
+			<item>Desert Botanical Gardens, 1201 N Galvin Parkway, Phoenix, AZ, U.S.A. </item>
+			<item>Phoenix Zoo, 455 N Galvin Parkway, Phoenix, AZ, U.S.A. </item>
+</array>  
+  
+  
+  <array name="SanDiego">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>San Diego Airport (SAN), 3333 N Harbor Dr, San Diego, CA, U.S.A.</item>
+			<item>San Diego Amtrak , 1050 Kettner Boulevard San Diego, CA 92101, U.S.A.</item>
+			<item>Coronado Island Marriott Resort, 2000 Second Street, Coronado, CA, U.S.A.</item>
+			<item>Doubletree / Mission Valley, 7450 Hazard Center Drive, San Diego, CA, U.S.A.</item>
+			<item>Hostelling International (Downtown), Market St. and 5th Ave, San Diego, CA 92101, U.S.A.</item>
+			<item>Hostelling International (Point Loma), 3790 Udall St., San Diego, CA 92107, U.S.A.</item>
+			<item>Marriott Hotel and Marina, 333 West Harbor Drive, San Diego, CA, U.S.A.</item>
+			<item>Omni San Diego Hotel,675 L Street, San Diego, CA, U.S.A.</item> 
+			<item>Rancho Bernardo Inn, 17550 Bernardo Oaks Drive, San Diego, CA, U.S.A.</item>
+			<item>Cabrillo National Monument,  1800 Cabrillo Memorial Dr, San Diego, CA, U.S.A.</item>
+			<item>U.S.S. Midway, 1355 N Harbor Dr, San Diego, CA, U.S.A.</item> 
+			<item>Balboa Park, Balboa Park, San Diego, CA, U.S.A.</item> 
+			<item>San Diego Aerospace Museum,  2001 Pan American Plz, San Diego, CA, U.S.A.</item>
+			<item>San Diego Zoo, 2920 Zoo Dr, San Diego, CA, U.S.A.</item>
+ </array>
+  
+  <array name="SanFrancisco">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Oakland Airport (OAK) , Oakland International Airport, Oakland, CA 94621, U.S.A. </item>
+			<item>San Francisco Airport (SFO) , SFO, U.S.A. </item> 
+			<item>Four Seasons Hotel San Francisco , 757 Market St, San Francisco, CA, U.S.A. </item>
+			<item>Hostelling International (City Center) , 685 Ellis Street, San Francisco, CA 94109, U.S.A. </item>
+			<item>Hostelling International (Downtown) ,312 Mason Street, San Francisco, CA 94102, U.S.A. </item> 
+			<item>Hostelling International (Fisherman\'s) ,Fort Mason, Building 240, San Francisco, CA 94123, U.S.A. </item> 
+			<item>Hotel Drisco , 2901 Pacific Ave, San Francisco, CA, U.S.A. </item> 
+			<item>Omni San Francisco Hotel ,  500 California St, San Francisco, CA, U.S.A. </item>
+			<item> Alcatraz, U.S.A. </item> 
+			<item>Crookedest Street (Lombard) , 1043 Lombard St, San Francisco, CA, U.S.A. </item> 
+			<item>Fisherman\'s Wharf , Pier 45, San Francisco, CA 94133, U.S.A. </item> 
+			<item>Golden Gate Bridge ,  Marine Drive, San Francisco, CA 94129, U.S.A. </item>
+			<item>Pier 45, San Francisco, CA 94133, U.S.A. </item> 
+			<item>Golden Gate Park, San Francisco, CA, U.S.A. </item>
+			<item>Pier 39, San Francisco, CA 94124, U.S.A. </item>			    
+</array>
+  
+  
+  <array name="Seattle">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Sea-Tac Airport (SEA) , 17801 International Blvd, Seattle, WA 98158, U.S.A. </item>
+			<item>Hyatt Hotels and Resorts , 721 Pine Street, Seattle, WA, U.S.A. </item>
+			<item>Hyatt Regency (Bellevue) ,900 Bellevue Way NE, Bellevue, WA, U.S.A. </item>
+			<item>Inn at El Gaucho , 2505 1st Ave, Seattle, WA, U.S.A. </item>
+			<item>Marriott Courtyard Downtown , 925 Westlake Ave No. Seattle WA 98109, U.S.A. </item>
+			<item>Marriott Waterfront , 2100 Alaskan Way, Seattle, WA, U.S.A. </item>
+			<item>Renaissance-Seattle , 515 Madison St, Seattle, WA, U.S.A. </item>
+			<item>Sheraton Seattle Hotel and Towers ,1400 Sixth Avenue, Seattle, WA, U.S.A. </item>
+			<item>W Hotels-Seattle ,1112 Fourth Avenue, Seattle, WA, U.S.A. </item>
+			<item>Watertown Hotel ,4242 Roosevelt Way NE, Seattle, WA, U.S.A. </item>
+			<item>Westin Seattle ,1900 Fifth Avenue, Seattle, WA, U.S.A. </item>
+			<item>Pier 57 (Waterfront) , 1301 Alaskan Way, Seattle, Washington, U.S.A. </item>
+			<item>Discovery Park , 3801 W Government Way, Seattle, WA, U.S.A. </item>
+			<item>Maritime Heritage Center , 1000 Valley St, Seattle, WA 98109, U.S.A. </item>
+			<item>Museum of Flight , 9404 E Marginal Way S, Tukwila, WA, U.S.A. </item>
+			<item>Pike Place Market , 85 Pike St, Seattle, WA, U.S.A. </item>
+			<item>Wing Luke Asian Museum ,407 7th Ave S, Seattle, WA, U.S.A. </item>
+			<item>Woodland Park Zoo , 601 N 59th St, Seattle, WA, U.S.A. </item>
+			<item>Anthony\'s Pier 66 , 2201 Alaskan Way, Seattle, WA 98121, U.S.A. </item>
+			<item>Cabaret at Crepe de Paris , 1333 5th Ave, Seattle, WA, U.S.A. </item>
+			<item>Elliot\'s Water House ,1201 Alaskan Way # 101, Seattle, WA 98101, U.S.A. </item>
+			<item>Neighbours Nightclub , 1509 Broadway E, Seattle, WA 98102, U.S.A. </item>
+			<item>Lincoln Park , 8603 Fauntleroy Way Southwest, Seattle, WA, U.S.A. </item>
+			<item>Qwest Field , 800 Occidental Ave S, Seattle, WA, U.S.A. </item>
+			<item>Schmitz Park , 5551 Southwest Admiral Way, Seattle, WA, U.S.A. </item>		
+			<item>Seattle Water Front Arcade ,1301 Alaskan Way, Seattle, WA 98101, U.S.A. </item>
+</array>
+  
+  
+ <array name="StLouis">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Lambert-St. Louis Airport (STL) ,STL, U.S.A. </item>
+			<item>Union Station , 1820 Market St, St Louis, MO, U.S.A. </item>
+			<item>Amtrak Station , 430 South 15th Street, St. Louis, MO, U.S.A. </item>
+			<item>Hyatt Regency , 315 chestnut street, st louis 63102, U.S.A. </item>
+			<item>Millennium Hotel , 200 S 4th St, St Louis, MO, U.S.A. </item>
+			<item>Sheraton City Center , 400 South 14th Street, St. Louis, MO, U.S.A. </item>
+			<item>Sheraton Clayton , 7730 Bonhomme Ave., Clayton, MO, U.S.A. </item>
+			<item>Gateway Arch , 50 N Leonor K Sullivan Blvd, St Louis, MO, U.S.A. </item>
+</array>
+  
+ <array name="Washington">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Reagan Washington Airport (DCA) , DCA, U.S.A. </item>
+			<item>Baltimore-Washington Airport (BWI) ,BWI, U.S.A. </item>
+			<item>Dulles International Airport (IAD) , IAD, U.S.A. </item>
+			<item>Greyhound Station , 1005 1st St NE, Washington, DC, U.S.A. </item>
+			<item>Union Station , Massachusetts Avenue and Columbus Circle NE, Washington, DC, U.S.A. </item>
+</array>
+
+<array name="London">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Heathrow Airport ,LHR</item>
+			<item>Padddington Station , Praed St, Westminster, London, UK</item>
+			<item>St. Paul\'s Cathedral , St Paul\'s Churchyard, City of London, London, UK</item>
+			<item> House of Commons ,London SW1A 0AA, United Kingdom</item>
+			<item>Buckingham Palace , London, SW1A 1AA</item>
+			<item>Royal Opera House ,Covent Garden, London, WC2E 9DD</item>
+			<item>Tower Bridge ,Tower Bridge Rd, Southwark, London SE1, UK</item>
+			<item>Westminster Abbey ,20 Deans Yd, London SW1P 3PA,UK</item>
+			<item>Tower of London ,Tower Hill, Greater London, UK</item>
+</array>
+
+<array name="Paris">  
+        	<item> Select a Landmark From Here (OR) </item>
+			<item>Charles de Gaulle Airport(CDG) , CDG, France</item>
+			<item>Orly Airport (ORY)  , ORLY, France</item>
+			<item>Eiffel Tower ,Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France</item>
+			<item>Louvre Museum , 75001 Paris, France </item>
+</array>
+ 
+<array name="Dubai">  
+        	<item> Select a Landmark From Here (OR) </item>
+        	<item>Dubai International Airport ,Al Twar - Dubai - United Arab Emirates</item> ‎
+        	<item>Dubai Mall,Doha St - Dubai - United Arab Emirates</item>
+			<item>Burj Khalifa - Sheikh Mohammed bin Rashid Blvd - Dubai, United Arab Emirates ‎</item>
+			<item>Dubai Metro Station - Dubai, United Arab Emirates ‎</item>
+			<item>Dubai Zoo ,Jumeirah Beach Rd , Dubai, United Arab Emirates ‎</item>
+			<item>Middlesex University Dubai ,Knowledge Village - Dubai , United Arab Emirates ‎</item>
+			<item>Zayed University and Convention Centre, Academic City , Dubai , United Arab Emirates ‎</item>
+</array>  
+  
+  
+  
+  <array name="borough">
+     <item> Bronx </item>
+    <item>Brooklyn</item>
+    <item>Manhattan</item>
+    <item>Queens</item>
+    <item>Staten Island </item>
+    <item></item>
+  </array>
+  
+  <array name="city_state">
+     <item> New York </item>
+    <item>New Jersey</item>
+    <item>Philadelphia</item>
+    <item>Atlanta</item>
+    <item>Las Vegas </item>
+  </array>
+  
+  
+   <array name="address_ph">
+     <item> Select a Landmark From Here (OR) </item>
+    <item>PHL, Philadelphia Airport</item>
+    <item>Crowne Plaza Main Line,<br/>4100 Presidential Boulevard, Philadelphia, PA</item>
+    <item>Double Tree Hotels, 237 South Broad Street, Philadelphia, PA </item>
+    <item>Hyatt Regency Penns Landing, 201 S. Columbus Blvd, Philadelphia, PA </item>
+  </array>
+  
+  
+  
+  <array name="address_atl">
+     <item> Select a Landmark From Here (OR) </item>
+    <item>ATL Airport</item>
+    <item>Buckhead (Lenox Square),3393 Peachtree Rd NE, Atlanta, GA</item>
+    <item>Centennial Olympic Park,265 Park Avenue West NW, Atlanta, GA </item>
+    <item>CNN Center,190 Marietta St NW, Atlanta, Fulton, GA </item>
+    <item>Coca-Cola Enterprises, 1 One Coca Cola plz NW, Atlanta, GA</item>
+    <item>Georgia Dome, 1 Georgia Dome Dr NW, Atlanta, GA</item>
+    <item>Peachtree Center, 231 Peachtree St NE, Atlanta, GA </item>
+    <item>Lenox Square Mall, 3393 Peachtree Rd Ne, Atlanta, GA</item>
+  </array>
+  
+  <array name="address_las">
+     <item> Select a Landmark From Here (OR) </item>
+    <item>Las Vegas McCarran Airport (LAS), NV</item>
+    <item>Sam Boyd Stadium, 7000 E Russell Rd, Las Vegas, NV</item>
+    <item>Fiesta Rancho, 2400 N Rancho Dr, Las Vegas, NV </item>
+  </array>
+  
+ <array name="passengers">
+    <item>"#"Passenger</item>
+    <item>"1"</item>
+    <item>"2"</item>
+    <item>"3"</item>
+    <item>"4"</item>
+    <item>"5"</item> 
+    <item>"6"</item>
+  </array>
+  
+    
+   <array name="time">
+    <item>Time</item>
+    <item>Day Time [8am-4pm]</item>
+    <item>Rush Hour[M-F][4pm-8pm]</item> 
+    <item>Night Time[8pm-6am]</item>
+  </array>
+  
+  <array name="twentyfour">
+    <item>Time</item>
+    <item>"01:00  ( 1:00 a.m.)"</item> 
+    <item>"02.00  ( 2:00 a.m.)"</item>
+    <item>"03.00  ( 3:00 a.m.)"</item>
+    <item>"04.00  ( 4:00 a.m.)"</item>
+    <item>"05.00  ( 5:00 a.m.)"</item>
+    <item>"06.00  ( 6:00 a.m.)"</item>
+    <item>"07.00  ( 7:00 a.m.)"</item>
+    <item>"08.00  ( 8:00 a.m.)"</item>
+    <item>"09.00  ( 9:00 a.m.)"</item>
+    <item>"10.00  ( 10:00 a.m.)"</item>
+    <item>"11.00  ( 11:00 a.m.)"</item>
+    <item>"12.00  ( 12:00 p.m.)"</item>
+    <item>"13.00  ( 1:00 p.m.)"</item>
+    <item>"14.00  ( 2:00 p.m.)"</item>              
+    <item>"15.00  ( 3:00 p.m.)"</item>
+    <item>"16.00  ( 4:00 p.m.)"</item>
+    <item>"17.00  ( 5:00 p.m.)"</item>
+    <item>"18.00  ( 6:00 p.m.)"</item>
+    <item>"19.00  ( 7:00 p.m.)"</item>
+    <item>"20.00  ( 8:00 p.m.)"</item>
+    <item>"21.00  ( 9:00 p.m.)"</item>
+    <item>"22.00  ( 10:00 p.m.)"</item>
+    <item>"23.00  ( 11:00 p.m.)"</item> 
+    <item>"24.00  ( 12:00 a.m.)"</item>                         
+  </array>
+  
+   <array name="mode">
+    <item>TaxiFare</item>
+    <item>Walking Direction</item>
+    <item>Bicycling </item> 
+    <item>TaxiFare"+"Direction</item>
+  </array>
+  
+   <array name="coordinates_latitude">
+    <item>S</item>
+  </array>
+   
+  <array name="coordinates_longitude">
+    
+    <item>W</item>
+  </array>  
+   
+  
+  <array name="coordinates_longitude2">
+    <item>40.83486</item>
+    <item>40.7791655</item>
+    <item>-73.8600979</item>
+    <item>-73.96292278</item>
+  </array> 
+  
+  <array name="convert">
+    <item>Convert</item>    
+  </array>
+    
+ 
+</resources>

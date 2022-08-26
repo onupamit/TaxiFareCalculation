@@ -1,0 +1,219 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MapsActivity">
+
+ <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.studioandroid.taxifarecalculation.MapsActivity" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="#7000"
+        android:orientation="vertical"
+        android:paddingBottom="2dp"
+        android:paddingTop="1dp" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:gravity="center"
+        android:shadowColor="#000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="6"
+        android:text=" "
+        android:textColor="#FFF"
+        android:textSize="36sp"
+        android:textStyle="bold" />
+
+
+
+    <TextView
+        android:id="@+id/cityName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:shadowColor="#000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="6"
+        android:text="New York City"
+        android:textColor="#FFF"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+        <!-- Strating point of start address   -->
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+
+        <MultiAutoCompleteTextView android:id="@+id/multiAutoCompleteStarting"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#000"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="6"
+            android:textSize="14sp"
+            android:hint="Enter ,Selct or Click for starting Address"
+            android:textColor="#fff"
+            android:completionThreshold="2"
+            android:paddingLeft="1dp"
+            android:paddingRight="10dp"
+            android:layout_marginLeft="95dp"
+            android:layout_marginRight="2dp"
+            />
+            <ImageButton
+                android:id="@+id/sFindStart"
+                android:layout_width="25dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/s1"
+                android:layout_gravity="left|center_vertical"
+
+                />
+
+            <!--  Spinner()  start-->
+
+            <Spinner
+                android:id="@+id/spinnerStart"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:prompt="@string/spin_tt"
+                android:entries ="@array/address_ny"
+                android:layout_marginLeft="25dp"
+                android:layout_gravity="center_vertical"
+
+                />
+            <ImageButton
+                android:id="@+id/startFromCurrentLocation"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="25dp"
+                android:src="@drawable/current"
+                android:layout_gravity="right|center_vertical"
+
+                />
+            <ImageButton
+                android:id="@+id/clearLocStart"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/cross"
+                android:layout_gravity="right|center_vertical"
+
+                />
+
+        </FrameLayout>
+        <!--  starting point of Ending address -->
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+        <MultiAutoCompleteTextView
+            android:id="@+id/multiAutoCompleteEnding"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:shadowColor="#000"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="6"
+            android:textSize="14sp"
+            android:hint="Enter ,Selct or Click for ending Address"
+            android:textColor="#fff"
+            android:completionThreshold="1"
+            android:paddingLeft="1dp"
+            android:paddingRight="10dp"
+
+            android:layout_marginLeft="95dp"
+            android:layout_marginRight="2dp"
+
+            />
+            <ImageButton
+                android:id="@+id/eFindEnd"
+                android:layout_width="25dp"
+                android:layout_height="wrap_content"
+                android:src="@drawable/s1"
+                android:layout_gravity="left|center_vertical"
+
+                />
+            <Spinner
+                android:id="@+id/spinnerEnd"
+                android:layout_width="70dp"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:textColor="#FFF"
+                android:textStyle="bold"
+                android:textSize="6pt"
+                android:prompt="@string/spin_tt"
+                android:entries ="@array/address_ny"
+                android:layout_marginLeft="25dp"
+                android:layout_gravity="center_vertical"
+                />
+            <ImageButton
+                android:id="@+id/endAtCurrentLocation"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="25dp"
+                android:src="@drawable/current1"
+                android:layout_gravity="right|center_vertical"
+
+                />
+
+            <ImageButton
+                android:id="@+id/clearLocEnd"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_marginRight="2dp"
+                android:src="@drawable/cross1"
+                android:layout_gravity="right|center_vertical"
+
+                />
+
+
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="bottom"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#cc3b60a7"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/buttonSetFrom"
+                android:text="Set From"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <Button
+                android:id="@+id/buttonSetTo"
+                android:text="Set To"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+            <Button
+                android:id="@+id/buttonCalcDistance"
+                android:text="Calc Distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>
